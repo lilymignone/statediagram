@@ -1,3 +1,4 @@
+![diagram](trafficlight.drawio)
 This diagram represents a traffic light control system at the Gishushu intersection, designed to manage traffic flow and pedestrian crossings in all directions. It shows a sequence of traffic light and pedestrian signal phases that operate in a cyclic pattern, with specific timings for each phase.
 
 Here’s a breakdown of the flow:
